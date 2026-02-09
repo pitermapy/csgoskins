@@ -1,0 +1,72 @@
+[
+  {
+    "id": "skin-001",
+    "name": "Glock-18 | Weasel",
+    "weapon": "Glock-18",
+    "rarity": "common",
+    "price": 2.1
+  },
+  {
+    "id": "skin-002",
+    "name": "USP-S | Jungle",
+    "weapon": "USP-S",
+    "rarity": "common",
+    "price": 2.6
+  },
+  {
+    "id": "skin-003",
+    "name": "P90 | Freight",
+    "weapon": "P90",
+    "rarity": "uncommon",
+    "price": 4.8
+  },
+  {
+    "id": "skin-004",
+    "name": "MAC-10 | Nova",
+    "weapon": "MAC-10",
+    "rarity": "uncommon",
+    "price": 5.1
+  },
+  {
+    "id": "skin-005",
+    "name": "AK-47 | Redline",
+    "weapon": "AK-47",
+    "rarity": "rare",
+    "price": 18.9
+  },
+  {
+    "id": "skin-006",
+    "name": "M4A1-S | Cyrex",
+    "weapon": "M4A1-S",
+    "rarity": "rare",
+    "price": 21.3
+  },
+  {
+    "id": "skin-007",
+    "name": "AWP | Hyper Beast",
+    "weapon": "AWP",
+    "rarity": "epic",
+    "price": 68.4
+  },
+  {
+    "id": "skin-008",
+    "name": "Desert Eagle | Blaze",
+    "weapon": "Desert Eagle",
+    "rarity": "epic",
+    "price": 71.2
+  },
+  {
+    "id": "skin-009",
+    "name": "Karambit | Doppler",
+    "weapon": "Karambit",
+    "rarity": "legendary",
+    "price": 260.0
+  },
+  {
+    "id": "skin-010",
+    "name": "Butterfly Knife | Fade",
+    "weapon": "Butterfly Knife",
+    "rarity": "legendary",
+    "price": 320.0
+  }
+]
